@@ -14,7 +14,7 @@ This repository contains my implementation and analysis of two classic algorithm
 
 ## Requirements
 
-Just Python 3.8 or newer. No external packages needed — everything uses the standard library (`random`, `time`, `sys`).
+Just Python 3.8 or newer. No external packages needed, everything uses the standard library (`random`, `time`, `sys`).
 
 ## How to run
 
